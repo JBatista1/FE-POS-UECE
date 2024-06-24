@@ -15,5 +15,5 @@ export const Environment = {
   /**
      * Url base de consultado dos dados dessa aplicação
      */
-  URL_BASE: 'http://ec2-34-201-131-84.compute-1.amazonaws.com:8087',
+  URL_BASE: 'http://ec2-54-82-198-219.compute-1.amazonaws.com:8087',
 };
